@@ -1,0 +1,9 @@
+/*
+ * default tailwind theme
+ * https://github.com/tailwindlabs/tailwindcss/blob/master/stubs/defaultConfig.stub.js
+ */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import "./typography";
