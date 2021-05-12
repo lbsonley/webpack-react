@@ -24,7 +24,7 @@
     "eslint-plugin-unicorn": "^20.1.0",
     "html-loader": "^1.1.0",
     "html-webpack-plugin": "^4.3.0",
-    "postcss": "^8.2.1",
+    "postcss": "^8.2.10",
     "postcss-import": "^14.0.0",
     "postcss-loader": "^4.1.0",
     "prettier": "^2.0.5",
